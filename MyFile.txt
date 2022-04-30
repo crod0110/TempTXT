@@ -1,1 +1,6 @@
 Hello
+
+func hello() {
+
+	Print("Hello world");
+}
